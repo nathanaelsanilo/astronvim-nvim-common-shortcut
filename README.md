@@ -1,0 +1,1 @@
+# astronvim-nvim-common-shortcut
