@@ -8,5 +8,8 @@ This repository provides a collection of common shortcuts and commands for vario
 
 - [Neovim Quick Reference](https://neovim.io/doc/user/quickref.html#_quick-reference-guide)
 - [Astronvim Mappings](https://docs.astronvim.com/mappings)
+- [Docker CLI Reference](https://docs.docker.com/reference/cli/docker/)
+- [Dockerfile Reference](https://docs.docker.com/reference/dockerfile/)
+- [Docker Compose File Reference](https://docs.docker.com/reference/compose-file/)
 
 PS AI generated and curated by myself
